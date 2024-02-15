@@ -1,2 +1,2 @@
-# BMI-_project
+# BMI_project
 this is practice project for javascipt 
